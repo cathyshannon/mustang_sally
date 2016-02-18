@@ -1,0 +1,40 @@
+/* style.css */
+
+ul.nav{   
+	list-style: none;   
+	padding: 0; 
+} 
+
+ul.nav li{   
+	display: inline; 
+}
+
+
+.navigation {     
+	float: left; 
+}
+
+.form {     
+	float: right; 
+}
+
+input{   
+	padding: 4px;   
+	font-size: 1.5em;   
+	font-family: "Arial", 
+	sans-serif; 
+}
+
+.my-button{   
+	padding: 10px 12px;   
+	border: 1px solid aqua;   
+	color: aqua;   
+	background-color: blue;   
+	text-decoration: none;   
+	display: inline-block;   
+	border-radius: 5px; 
+} 
+
+.my-button:hover{   
+	margin: 2px 0 0 2px; 
+}
